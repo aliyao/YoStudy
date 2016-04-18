@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YoStudy</string>
+
+    <string name="dummy_button">立即进入</string>
+    <string name="dummy_content">Hello\n</string>
+    <string name="title_activity_main">YoStudy</string>
+    <string name="action_settings">设置</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="section_1">推荐</string>
+    <string name="section_2">发现</string>
+</resources>
